@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MatrixTransposition.UserInterface.Models
+namespace TestGenerator.UserInterface.Models
 {
     public class TestInput
     {

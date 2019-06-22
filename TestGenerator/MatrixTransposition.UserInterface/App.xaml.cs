@@ -1,10 +1,10 @@
-﻿using MatrixTransposition.UserInterface.Services;
-using MatrixTransposition.UserInterface.Views;
+﻿using TestGenerator.UserInterface.Services;
+using TestGenerator.UserInterface.Views;
 using Prism.Ioc;
 using Prism.Modularity;
 using System.Windows;
 
-namespace MatrixTransposition.UserInterface
+namespace TestGenerator.UserInterface
 {
     public partial class App
     {

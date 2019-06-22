@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MatrixTransposition.UserInterface.Properties
+namespace TestGenerator.UserInterface.Properties
 {
 
 

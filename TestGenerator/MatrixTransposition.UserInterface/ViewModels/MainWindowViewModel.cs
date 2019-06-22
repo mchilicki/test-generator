@@ -1,12 +1,12 @@
-﻿using MatrixTransposition.UserInterface.Models;
-using MatrixTransposition.UserInterface.Services;
+﻿using TestGenerator.UserInterface.Models;
+using TestGenerator.UserInterface.Services;
 using Microsoft.Win32;
 using Prism.Commands;
 using Prism.Mvvm;
 using System;
 using System.Windows;
 
-namespace MatrixTransposition.UserInterface.ViewModels
+namespace TestGenerator.UserInterface.ViewModels
 {
     public class MainWindowViewModel : BindableBase
     {
@@ -20,7 +20,7 @@ namespace MatrixTransposition.UserInterface.ViewModels
 
         private Settings _currentSettings;
 
-        private const string TITLE = "Matrix Transposition";
+        private const string TITLE = "Test Generator";
         private const string DIALOG_TEXT_FILTER = "Text files (*.txt)|*.txt";
 
         private string _title = TITLE;

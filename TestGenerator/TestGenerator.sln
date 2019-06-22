@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTransposition.UserInterface", "MatrixTransposition.UserInterface\MatrixTransposition.UserInterface.csproj", "{F5139A95-D4BC-4843-B81B-75DCC0B7607D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGenerator.UserInterface", "MatrixTransposition.UserInterface\TestGenerator.UserInterface.csproj", "{F5139A95-D4BC-4843-B81B-75DCC0B7607D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

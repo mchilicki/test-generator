@@ -1,8 +1,8 @@
-﻿<prism:PrismApplication x:Class="MatrixTransposition.UserInterface.App"
+﻿<prism:PrismApplication x:Class="TestGenerator.UserInterface.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
 	     xmlns:prism="http://prismlibrary.com/"
-             xmlns:local="clr-namespace:MatrixTransposition.UserInterface">
+             xmlns:local="clr-namespace:TestGenerator.UserInterface">
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>

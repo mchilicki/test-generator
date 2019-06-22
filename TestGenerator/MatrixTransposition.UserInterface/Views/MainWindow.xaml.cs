@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Input;
 
-namespace MatrixTransposition.UserInterface.Views
+namespace TestGenerator.UserInterface.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
