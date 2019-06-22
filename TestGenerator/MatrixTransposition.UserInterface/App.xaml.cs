@@ -17,6 +17,8 @@ namespace TestGenerator.UserInterface
         {
             containerRegistry
                 .Register<SettingsReaderWriter>();
+            containerRegistry
+                .Register<TestInputReader>();
         }
     }
 }
